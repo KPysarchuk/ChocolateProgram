@@ -1,0 +1,8 @@
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\bin\Debug\ChocolateConsoleApplication.exe.config
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\bin\Debug\ChocolateConsoleApplication.exe
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\bin\Debug\ChocolateConsoleApplication.pdb
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\bin\Debug\ConsoleApplicationChocolate.exe
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\bin\Debug\ConsoleApplicationChocolate.pdb
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\obj\Debug\ChocolateConsoleApplication.csprojResolveAssemblyReference.cache
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\obj\Debug\ChocolateConsoleApplication.exe
+D:\dev\C# projects\ChocolateConsoleApplication\ChocolateConsoleApplication\obj\Debug\ChocolateConsoleApplication.pdb
